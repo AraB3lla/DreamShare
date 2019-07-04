@@ -1,0 +1,18 @@
+<svg width="13" height="16" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+ <title>Shape</title>
+ <desc>Created with Sketch.</desc>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="16" width="18" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Symbols">
+   <g stroke="null" fill="#000000" id="entypo/music2">
+    <path fill="#ffffff" stroke="#ffffff" id="Shape" d="m3.408592,2.175553l0,8.848214c-0.512,-0.100907 -1.1072,-0.062502 -1.6976,0.143078c-1.3288,0.464625 -1.7976,1.594938 -1.4456,2.524188c0.352,0.930004 1.392,1.305771 2.72,0.841145c1.128,-0.39384 1.8672,-1.268872 1.8488,-2.092697l0,-7.309002l5.624,-1.213147l0,5.614663c-0.5128,-0.100154 -1.108,-0.062502 -1.6984,0.143831c-1.328,0.464625 -1.7968,1.594938 -1.4448,2.524188c0.3512,0.930004 1.3912,1.305771 2.7192,0.841898c1.1288,-0.394593 1.8672,-1.269625 1.8496,-2.092697l0,-10.487581l-8.4752,1.713918l0,0z"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="17" height="16" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+ <title>Shape</title>
+ <desc>Created with Sketch.</desc>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="18" width="19" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="white" id="Symbols">
+   <g fill="#000000" id="entypo/airplane">
+    <path fill="#ffffff" id="Shape" d="m4.580989,15.695343l1.584,0l3.5544,-6.3368l4.0896,0c0,0 2.376,0 2.376,-1.1088c0,-1.1096 -2.376,-1.1096 -2.376,-1.1096l-4.0896,0l-3.5544,-6.336l-1.584,0l1.9704,6.336l-2.8408,0l-1.7824,-1.584l-1.584,0l1.2672,2.6936l-1.2672,2.6928l1.584,0l1.7824,-1.584l2.8408,0l-1.9704,6.3368l0,0z"/>
+   </g>
+  </g>
+ </g>
+</svg>
