@@ -1,0 +1,1 @@
+This was a small design test i did for a company before an interview. I was sent an image of a website and then told to create the coded version of the site. 
